@@ -1,4 +1,4 @@
-
+#практика 11
 #Задание 1
 #with open('test.txt', 'w', encoding='utf-8') as file:
 #    file.write('Привет, файл!')
@@ -98,5 +98,6 @@
 #   print('Ошибка: файл input.txt не найден!')
 #except Exception as e:
 #    print(f'Произошла ошибка:', e)
+
 
 
